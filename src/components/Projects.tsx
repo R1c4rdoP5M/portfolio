@@ -6,18 +6,18 @@ import { ExternalLink, Github } from "lucide-react";
 const Projects = () => {
   const projects = [
     {
-      title: "E-Commerce Platform",
-      description: "Full-stack online store with payment integration, user authentication, and admin dashboard",
-      technologies: ["React", "Node.js", "MongoDB", "Stripe"],
-      github: "#",
-      demo: "#",
+      title: "Connect4 Game",
+      description: "Interactive Connect 4 game implementation with game logic and player vs player functionality",
+      technologies: ["JavaScript", "HTML", "CSS", "Game Logic"],
+      github: "https://github.com/R1c4rdoP5M/Connect4Game",
+      demo: "https://github.com/R1c4rdoP5M/Connect4Game",
     },
     {
-      title: "Task Management App",
-      description: "Collaborative project management tool with real-time updates and team features",
-      technologies: ["React", "Firebase", "Tailwind CSS"],
-      github: "#",
-      demo: "#",
+      title: "Megafone",
+      description: "Mobile agency project showcasing modern mobile-first design and development practices",
+      technologies: ["Web Development", "Responsive Design", "Mobile-First"],
+      github: "https://github.com/R1c4rdoP5M/Megafone",
+      demo: "https://github.com/R1c4rdoP5M/Megafone",
     },
     {
       title: "Weather Dashboard",
