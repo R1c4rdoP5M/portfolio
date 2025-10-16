@@ -38,7 +38,7 @@ const Footer = () => {
 
           <div className="text-center">
             <p className="text-muted-foreground">
-              © {currentYear} Your Name. Built with passion and creativity.
+              © {currentYear} Ricardo Matveiev. Built with passion and creativity.
             </p>
             <p className="text-sm text-muted-foreground mt-2">
               Made with React, TypeScript, and Tailwind CSS
