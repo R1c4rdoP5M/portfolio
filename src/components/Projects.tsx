@@ -20,32 +20,11 @@ const Projects = () => {
       demo: "https://github.com/R1c4rdoP5M/Megafone",
     },
     {
-      title: "Weather Dashboard",
-      description: "Interactive weather application with location-based forecasts and data visualization",
-      technologies: ["React", "API Integration", "Charts.js"],
-      github: "#",
-      demo: "#",
-    },
-    {
-      title: "Blog Platform",
-      description: "Content management system with markdown support and SEO optimization",
-      technologies: ["Next.js", "TypeScript", "Prisma"],
-      github: "#",
-      demo: "#",
-    },
-    {
-      title: "Portfolio Generator",
-      description: "Tool to help developers create stunning portfolios with customizable templates",
-      technologies: ["React", "Tailwind CSS", "Vite"],
-      github: "#",
-      demo: "#",
-    },
-    {
-      title: "Social Media Clone",
-      description: "Feature-rich social platform with posts, comments, likes, and user profiles",
-      technologies: ["React", "Node.js", "PostgreSQL"],
-      github: "#",
-      demo: "#",
+      title: "Flip Card",
+      description: "Interactive flip card animation demonstrating CSS transforms and transitions",
+      technologies: ["HTML", "CSS", "JavaScript", "Animations"],
+      github: "https://github.com/R1c4rdoP5M/flip-card.github.io",
+      demo: "https://github.com/R1c4rdoP5M/flip-card.github.io",
     },
   ];
 
