@@ -12,7 +12,7 @@ const Favourites = () => {
     {
       icon: <Trophy className="w-6 h-6" />,
       title: "Sports & Activities",
-      items: ["Basketball", "Swimming", "Cycling", "Hiking", "Yoga"],
+      items: ["Volleyball", "Swimming", "Cycling", "Hiking", "Yoga"],
       color: "from-green-500 to-emerald-500",
     },
     {

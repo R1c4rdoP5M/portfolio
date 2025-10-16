@@ -11,7 +11,7 @@ const Skills = () => {
     {
       icon: <Server className="w-8 h-8" />,
       title: "Backend Development",
-      skills: ["Node.js", "Express", "Python", "REST APIs", "GraphQL"],
+      skills: ["Java", "Python", "C", "C#", "REST APIs"],
     },
     {
       icon: <Database className="w-8 h-8" />,

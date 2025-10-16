@@ -6,23 +6,23 @@ const About = () => {
     {
       icon: <GraduationCap className="w-6 h-6" />,
       title: "Bachelor's Degree",
-      institution: "University Name",
-      period: "2020 - 2024",
+      institution: "University of Debrecen",
+      period: "2023 - 2026",
       description: "Computer Science major with focus on web development and software engineering",
     },
     {
       icon: <Code className="w-6 h-6" />,
       title: "Coding Bootcamp",
-      institution: "Tech Academy",
-      period: "2022",
-      description: "Intensive full-stack development program focusing on modern frameworks",
+      institution: "Epam",
+      period: "2024",
+      description: "Intensive Java development program focusing on modern frameworks",
     },
     {
       icon: <BookOpen className="w-6 h-6" />,
       title: "Certifications",
-      institution: "Various Platforms",
-      period: "2021 - Present",
-      description: "React, Node.js, and Cloud Architecture certifications",
+      institution: "Nvidia, Certiport, Microsoft Azure",
+      period: "2024 - 2025",
+      description: "Professional certifications in AI, cloud computing, and enterprise technologies",
     },
   ];
 
