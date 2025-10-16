@@ -30,8 +30,10 @@ const Hero = () => {
             <Button size="lg" className="bg-gradient-to-r from-primary to-secondary hover:opacity-90">
               View My Work
             </Button>
-            <Button size="lg" variant="outline">
-              Download CV
+            <Button size="lg" variant="outline" asChild>
+              <a href="/RenderCV_Classic_Theme.pdf" download="RenderCV_Classic_Theme.pdf">
+                Download CV
+              </a>
             </Button>
           </div>
 
